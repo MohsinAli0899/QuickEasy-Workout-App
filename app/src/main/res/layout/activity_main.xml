@@ -9,7 +9,7 @@
 
 <ImageView
     android:id="@+id/myImageView"
-    android:src="@drawable/img_main_page"
+    android:src="@drawable/quick_easy_edited"
     app:layout_constraintTop_toTopOf="parent"
     app:layout_constraintBottom_toTopOf="@+id/flStart"
     android:contentDescription="@string/image"
